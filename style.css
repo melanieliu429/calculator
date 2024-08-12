@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: lightgray;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,6 +12,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: 3px solid black;
+    padding: 4rem 2rem;
+    margin-top: 2rem;
 }
 
 #container {
